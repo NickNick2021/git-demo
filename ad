@@ -1,0 +1,76 @@
+[33mcommit f32380ba34d8ba429ab59c4ea2c50615fbd3e995[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: version1[m[33m)[m
+Merge: cf8a2ce ba4e62c
+Author: Nick Voitko <6865574@mail.ru>
+Date:   Sat Nov 14 18:31:59 2020 +0300
+
+    Merge branch 'feature' into main
+    
+    # Conflicts:
+    #       song.txt
+
+[33mcommit ba4e62c13b0717d225b62289ff6f8434ef953aaa[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Nick Voitko <6865574@mail.ru>
+Date:   Sat Nov 14 18:25:43 2020 +0300
+
+    third coup.
+
+[33mcommit cf8a2ce6a3802100291d56b239c416baacc7f8d2[m
+Author: Nick Voitko <6865574@mail.ru>
+Date:   Sat Nov 14 18:23:25 2020 +0300
+
+    second coup.
+
+[33mcommit 0e69a2a3c43ee9ebd8bebbe935af26823696b3ac[m
+Merge: 8113edd de9f296
+Author: Nick Voitko <6865574@mail.ru>
+Date:   Sat Nov 14 18:15:39 2020 +0300
+
+    Merge branch 'feature' into main
+
+[33mcommit de9f2967e9b59b8a79329aaacd92e28e1f8394ba[m
+Author: Nick Voitko <6865574@mail.ru>
+Date:   Sat Nov 14 18:09:17 2020 +0300
+
+    remove last 2 coup
+
+[33mcommit 8113eddce3a36ca5b253962917824daa9fbed601[m
+Author: Nick Voitko <6865574@mail.ru>
+Date:   Sat Nov 14 18:04:15 2020 +0300
+
+    mfin commit
+
+[33mcommit f812c33784c1a4e015f1d7af87001b36734fc2a6[m
+Author: Nick Voitko <6865574@mail.ru>
+Date:   Sat Nov 14 17:51:50 2020 +0300
+
+    add third coup.
+
+[33mcommit 012a3641dd242410ff4af8fe99e1e764db67bf17[m
+Author: Nick Voitko <6865574@mail.ru>
+Date:   Sat Nov 14 17:49:29 2020 +0300
+
+    add second coup.
+
+[33mcommit 053cb8861ee67e3014d52b26913cb3e73ee97341[m
+Author: Nick Voitko <6865574@mail.ru>
+Date:   Fri Nov 13 14:51:50 2020 +0300
+
+    commit once again
+
+[33mcommit 96e8411ba5ddef038e21c050f07eeb4ca3b4571f[m
+Author: NickNick2021 <74399092+NickNick2021@users.noreply.github.com>
+Date:   Fri Nov 13 11:11:48 2020 +0300
+
+    add 4 strings
+
+[33mcommit 47e988d510938f5e1883a426c1e24455c398b7da[m
+Author: Nick Voitko <6865574@mail.ru>
+Date:   Fri Nov 13 10:55:11 2020 +0300
+
+    add first 2 lines in the song
+
+[33mcommit 83b7ef0d6a3ef1e111ab762b4c7b048661caeb72[m
+Author: NickNick2021 <74399092+NickNick2021@users.noreply.github.com>
+Date:   Fri Nov 13 10:43:20 2020 +0300
+
+    Initial commit
